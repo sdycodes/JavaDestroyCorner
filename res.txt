@@ -1,0 +1,45 @@
+---round 000---
+./outputs/000Railway.txt
+./outputs/000wsy.txt
+./outputs/000zmw.txt
+lines count: 85411 lines
+---round 001---
+./outputs/001Railway.txt
+./outputs/001wsy.txt
+./outputs/001zmw.txt
+lines count: 89036 lines
+---round 002---
+./outputs/002Railway.txt
+./outputs/002wsy.txt
+./outputs/002zmw.txt
+lines count: 93424 lines
+---round 003---
+./outputs/003Railway.txt
+./outputs/003wsy.txt
+./outputs/003zmw.txt
+lines count: 54452 lines
+---round 004---
+./outputs/004Railway.txt
+./outputs/004wsy.txt
+./outputs/004zmw.txt
+lines count: 52175 lines
+---round 005---
+./outputs/005Railway.txt
+./outputs/005wsy.txt
+./outputs/005zmw.txt
+lines count: 87928 lines
+---round 006---
+./outputs/006Railway.txt
+./outputs/006wsy.txt
+./outputs/006zmw.txt
+lines count: 83215 lines
+---round 007---
+./outputs/007Railway.txt
+./outputs/007wsy.txt
+./outputs/007zmw.txt
+lines count: 66990 lines
+---round 008---
+./outputs/008Railway.txt
+./outputs/008wsy.txt
+./outputs/008zmw.txt
+lines count: 81322 lines
