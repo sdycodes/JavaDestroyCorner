@@ -7,3 +7,5 @@ python3 test.py
 echo "test finish"
 python3 compare.py >> res.txt
 echo "compare finish"
+./not.sh
+
