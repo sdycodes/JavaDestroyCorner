@@ -4,5 +4,69 @@
 ./outputs/000wsy.txt
 ./outputs/000zmw.txt
 ./outputs/000ljk.txt
-./outputs/000mjl.txt
 ./outputs/000wsyc.txt
+lines count: 1 lines valid: 1
+---round 001---
+./outputs/001bxy.txt
+./outputs/001sdy.txt
+./outputs/001wsy.txt
+./outputs/001zmw.txt
+./outputs/001ljk.txt
+./outputs/001wsyc.txt
+lines count: 1 lines valid: 0
+---round 002---
+./outputs/002bxy.txt
+./outputs/002sdy.txt
+./outputs/002wsy.txt
+./outputs/002zmw.txt
+./outputs/002ljk.txt
+./outputs/002wsyc.txt
+lines count: 1 lines valid: 0
+---round 003---
+./outputs/003bxy.txt
+./outputs/003sdy.txt
+./outputs/003wsy.txt
+./outputs/003zmw.txt
+./outputs/003ljk.txt
+./outputs/003wsyc.txt
+lines count: 1 lines valid: 1
+---round 004---
+./outputs/004bxy.txt
+./outputs/004sdy.txt
+./outputs/004wsy.txt
+./outputs/004zmw.txt
+./outputs/004ljk.txt
+./outputs/004wsyc.txt
+lines count: 1 lines valid: 1
+---round 005---
+./outputs/005bxy.txt
+./outputs/005sdy.txt
+./outputs/005wsy.txt
+./outputs/005zmw.txt
+./outputs/005ljk.txt
+./outputs/005wsyc.txt
+lines count: 1 lines valid: 0
+---round 006---
+./outputs/006bxy.txt
+./outputs/006sdy.txt
+./outputs/006wsy.txt
+./outputs/006zmw.txt
+./outputs/006ljk.txt
+./outputs/006wsyc.txt
+lines count: 1 lines valid: 0
+---round 007---
+./outputs/007bxy.txt
+./outputs/007sdy.txt
+./outputs/007wsy.txt
+./outputs/007zmw.txt
+./outputs/007ljk.txt
+./outputs/007wsyc.txt
+lines count: 1 lines valid: 0
+---round 008---
+./outputs/008bxy.txt
+./outputs/008sdy.txt
+./outputs/008wsy.txt
+./outputs/008zmw.txt
+./outputs/008ljk.txt
+./outputs/008wsyc.txt
+lines count: 1 lines valid: 0
