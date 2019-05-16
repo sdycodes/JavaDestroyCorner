@@ -117,4 +117,4 @@ def gen(test_num, max_ins_per_test):
 	gen_test(test_num, max_ins_per_test)
 	
 
-gen(10, 2000)
+gen(10, 10000)

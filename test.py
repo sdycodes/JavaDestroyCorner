@@ -15,8 +15,12 @@ def run(jar, input_file):
 	all = res.split("\n\n")
 	timeCount = all[-1]
 	timeCount = timeCount.replace("\n", "| ")
+	timeCount = "TIME of " + input_file + " " + jar + ": " + timeCount
 	res = all[0]
-	print("TIME   ", jar, ": ", timeCount)
+	f = open("time.txt", "a")
+	f.write(timeCount + "\n")
+	f.close()
+	print(timeCount)
 	des = os.path.join(OUT_DIR, num + jar.split('.')[0]) + ".txt"
 	f = open(des, "w")
 	f.write(res)
