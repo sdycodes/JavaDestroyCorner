@@ -6,16 +6,16 @@ OUT_DIR = "./outputs"
 JAR_DIR = "./jars"
 	
 def run(jar, input_file):
-	cmdLine = "cat " + os.path.join(TEST_DIR, input_file) + " | time java -jar " + os.path.join(JAR_DIR, jar)
+	cmdLine = "cat " + os.path.join(TEST_DIR, input_file) + " | (time java -jar " + os.path.join(JAR_DIR, jar) + ")"
 	# print(cmdLine)
 	path_name = input_file.split(".")[0]
 	num = path_name.split('/')[-1]
 	num = num[1:]
 	res = subprocess.getoutput(cmdLine)
-	all = res.split("\n")
+	all = res.split("\n\n")
 	timeCount = all[-1]
-	all.pop()
-	res = "".join(all)
+	timeCount = timeCount.replace("\n", "| ")
+	res = all[0]
 	print("TIME   ", jar, ": ", timeCount)
 	des = os.path.join(OUT_DIR, num + jar.split('.')[0]) + ".txt"
 	f = open(des, "w")
