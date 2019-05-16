@@ -1,0 +1,6000 @@
+Ok, path id is 1.
+Ok, path id is 2.
+Ok, path id is 3.
+Ok, path id is 4.
+Ok, path id is 5.
+Ok, path id is 6.
+Ok, path id is 7.
+Ok, path id is 8.
+Ok, path id is 9.
+Ok, path id is 10.
+Ok, path id is 11.
+Ok, path id is 12.
+Ok, path id is 13.
+Ok, path id is 14.
+Ok, path id is 15.
+Ok, path id is 16.
+Ok, path id is 17.
+Ok, path id is 18.
+Ok, path id is 19.
+Ok, path id is 20.
+Ok, path id is 21.
+Ok, path id is 22.
+Ok, path id is 23.
+Ok, path id is 24.
+Ok, path id is 25.
+Ok, path id is 26.
+Ok, path id is 27.
+Ok, path id is 28.
+Ok, path id is 29.
+Ok, path id is 30.
+Ok, path id is 31.
+Ok, path id is 32.
+Ok, path id is 33.
+Ok, path id is 34.
+Ok, path id is 35.
+Ok, path id is 36.
+Ok, path id is 37.
+Ok, path id is 38.
+Ok, path id is 39.
+Ok, path id is 40.
+Ok, path id is 41.
+Ok, path id is 42.
+Ok, path id is 43.
+Ok, path id is 44.
+Ok, path id is 45.
+Ok, path id is 46.
+Ok, path id is 47.
+Ok, path id is 48.
+Ok, path id is 49.
+Ok, path id is 50.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+No.
+Ok, least unpleasant value is 265.
+Ok, length is 2.
+Yes.
+Ok, length is 2.
+Yes.
+No.
+Yes.
+Ok, least unpleasant value is 512.
+No.
+Yes.
+Yes.
+Ok, least unpleasant value is 18.
+No.
+Ok, length is 1.
+Ok, least price is 1.
+Ok, least unpleasant value is 16.
+Ok, least price is 1.
+Ok, least price is 1.
+No.
+Ok, least unpleasant value is 35.
+Ok, length is 1.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 4.
+Ok, least unpleasant value is 68.
+Ok, least price is 1.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least unpleasant value is 512.
+Yes.
+No.
+No.
+Ok, length is 1.
+Yes.
+Ok, length is 2.
+Ok, length is 1.
+Yes.
+Ok, length is 1.
+No.
+No.
+Yes.
+Yes.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least unpleasant value is 17.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 1.
+Ok, length is 2.
+Ok, length is 2.
+Yes.
+Ok, least price is 2.
+No.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+No.
+Ok, least transfer count is 0.
+No.
+Yes.
+Ok, least price is 1.
+Ok, least unpleasant value is 289.
+Ok, length is 2.
+No.
+Ok, least unpleasant value is 68.
+No.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 1.
+No.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 260.
+No.
+Ok, length is 2.
+Ok, least unpleasant value is 16.
+Yes.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, length is 2.
+Ok, least price is 1.
+Ok, least price is 4.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 64.
+Ok, least price is 1.
+Yes.
+Yes.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 3.
+Ok, length is 2.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, length is 2.
+No.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least unpleasant value is 256.
+Ok, least price is 1.
+Yes.
+Yes.
+Ok, least price is 3.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+No.
+No.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 256.
+No.
+Ok, least unpleasant value is 7.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Yes.
+Ok, least unpleasant value is 52.
+Yes.
+Ok, least unpleasant value is 16.
+Ok, least price is 2.
+Ok, length is 2.
+Yes.
+No.
+Yes.
+Ok, least price is 2.
+Yes.
+Yes.
+Yes.
+No.
+No.
+Ok, least unpleasant value is 256.
+Ok, least unpleasant value is 128.
+Ok, least price is 2.
+Ok, length is 1.
+No.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least unpleasant value is 336.
+Ok, length is 2.
+Yes.
+Ok, length is 1.
+Yes.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, least price is 2.
+Ok, length is 1.
+Ok, least unpleasant value is 8.
+No.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+No.
+Ok, length is 1.
+Ok, length is 1.
+Ok, least transfer count is 0.
+No.
+Ok, least unpleasant value is 32.
+Yes.
+Ok, length is 1.
+Yes.
+Ok, least price is 2.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+No.
+Ok, length is 2.
+Ok, least transfer count is 0.
+No.
+Yes.
+Ok, least unpleasant value is 16.
+Ok, least price is 3.
+No.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least unpleasant value is 64.
+Yes.
+No.
+Yes.
+Yes.
+Ok, least unpleasant value is 4.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, length is 2.
+Yes.
+Yes.
+Ok, least unpleasant value is 32.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 20.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least price is 1.
+No.
+Ok, length is 1.
+Yes.
+Ok, length is 1.
+Yes.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 64.
+Ok, least price is 1.
+Yes.
+Ok, least price is 1.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Yes.
+Yes.
+No.
+Ok, least transfer count is 0.
+Yes.
+No.
+Ok, length is 2.
+Ok, least unpleasant value is 304.
+No.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 320.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least price is 4.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, length is 1.
+Ok, least price is 2.
+Ok, least price is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+Yes.
+Yes.
+Ok, least unpleasant value is 88.
+Ok, length is 2.
+Ok, length is 1.
+Ok, length is 1.
+Ok, least unpleasant value is 72.
+Yes.
+Ok, least price is 1.
+Ok, least unpleasant value is 64.
+Ok, length is 0.
+Yes.
+Ok, least unpleasant value is 13.
+Yes.
+Yes.
+Yes.
+Yes.
+Ok, least unpleasant value is 32.
+No.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+No.
+Ok, least unpleasant value is 257.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least unpleasant value is 16.
+Yes.
+Ok, least transfer count is 0.
+No.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 64.
+Ok, length is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least unpleasant value is 37.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Ok, least price is 3.
+Ok, least price is 3.
+No.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+No.
+No.
+No.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 64.
+Yes.
+Yes.
+No.
+Ok, least transfer count is 0.
+No.
+No.
+Ok, length is 2.
+Yes.
+Yes.
+Yes.
+Ok, least price is 1.
+Yes.
+Ok, least price is 1.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 260.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 4.
+Ok, least price is 3.
+Ok, length is 2.
+Yes.
+Ok, length is 1.
+Ok, least price is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 10.
+Ok, length is 2.
+No.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+No.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 81.
+Ok, least price is 1.
+No.
+Ok, least unpleasant value is 49.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+Ok, length is 2.
+Ok, length is 1.
+Yes.
+Yes.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least unpleasant value is 276.
+Ok, length is 1.
+Yes.
+Yes.
+Ok, least unpleasant value is 292.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least price is 3.
+Yes.
+Yes.
+Ok, least price is 1.
+Ok, least unpleasant value is 257.
+Yes.
+No.
+No.
+Yes.
+Ok, least price is 1.
+Ok, least price is 2.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least unpleasant value is 32.
+Yes.
+Yes.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 64.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 257.
+Ok, length is 2.
+Ok, length is 2.
+Yes.
+Ok, least price is 3.
+Ok, least price is 1.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+No.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+No.
+Ok, least unpleasant value is 256.
+Ok, least unpleasant value is 265.
+Ok, least price is 2.
+No.
+No.
+Ok, least unpleasant value is 16.
+Ok, length is 1.
+Ok, least price is 1.
+No.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 80.
+Ok, least unpleasant value is 4.
+Yes.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 25.
+Yes.
+Ok, length is 1.
+No.
+Yes.
+Yes.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 1.
+No.
+Ok, least unpleasant value is 320.
+Ok, length is 2.
+Ok, length is 1.
+Ok, length is 2.
+Ok, least price is 1.
+Ok, length is 1.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+No.
+Ok, least transfer count is 0.
+No.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least price is 1.
+No.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+No.
+Yes.
+Yes.
+Yes.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 512.
+No.
+Yes.
+Ok, least price is 1.
+No.
+Ok, length is 1.
+Ok, least unpleasant value is 28.
+Ok, length is 1.
+No.
+Yes.
+Ok, least unpleasant value is 1.
+Ok, least price is 2.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 1.
+Ok, least price is 4.
+Yes.
+Yes.
+Yes.
+Ok, least unpleasant value is 100.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least unpleasant value is 48.
+Ok, least unpleasant value is 16.
+Ok, least unpleasant value is 20.
+Yes.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 16.
+Ok, least unpleasant value is 34.
+Ok, least unpleasant value is 8.
+Ok, least unpleasant value is 76.
+Ok, least unpleasant value is 32.
+Ok, least price is 1.
+Ok, least price is 1.
+Yes.
+Ok, least price is 0.
+No.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 16.
+Ok, length is 2.
+Ok, least unpleasant value is 68.
+No.
+Ok, length is 2.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 260.
+Ok, least unpleasant value is 37.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, least unpleasant value is 8.
+Yes.
+Ok, length is 1.
+Ok, length is 2.
+Yes.
+No.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, least price is 2.
+Yes.
+Ok, least price is 1.
+Yes.
+Ok, least unpleasant value is 112.
+Ok, least unpleasant value is 88.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 84.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least unpleasant value is 80.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+No.
+Ok, least price is 2.
+Ok, length is 1.
+Yes.
+Yes.
+Yes.
+Ok, least price is 2.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, length is 2.
+Yes.
+Yes.
+No.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least unpleasant value is 18.
+Ok, least price is 1.
+Yes.
+Yes.
+Ok, least unpleasant value is 32.
+Ok, least price is 1.
+Yes.
+No.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Yes.
+Yes.
+Ok, length is 1.
+Yes.
+Yes.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 74.
+Yes.
+Yes.
+Yes.
+No.
+No.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 65.
+Ok, least unpleasant value is 85.
+Yes.
+Yes.
+No.
+Ok, length is 2.
+Ok, least unpleasant value is 336.
+Ok, length is 1.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+No.
+Ok, length is 1.
+No.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 544.
+No.
+Ok, least unpleasant value is 256.
+Ok, length is 2.
+Yes.
+Ok, length is 1.
+Ok, least unpleasant value is 64.
+Ok, least price is 1.
+Ok, least price is 1.
+Ok, least price is 1.
+No.
+Ok, length is 2.
+Ok, least unpleasant value is 8.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least unpleasant value is 14.
+Ok, length is 2.
+Ok, least unpleasant value is 21.
+Ok, least price is 1.
+No.
+Ok, least unpleasant value is 16.
+Yes.
+Ok, length is 2.
+Ok, least price is 1.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, length is 2.
+Ok, least unpleasant value is 272.
+Ok, least unpleasant value is 256.
+No.
+Ok, least unpleasant value is 20.
+Ok, length is 2.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, length is 2.
+Ok, least transfer count is 0.
+No.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 32.
+No.
+Ok, length is 1.
+Yes.
+Ok, least unpleasant value is 260.
+Ok, length is 2.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 64.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 1.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 1.
+Ok, least unpleasant value is 3.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 112.
+Ok, least unpleasant value is 36.
+Ok, length is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least price is 2.
+Yes.
+Ok, length is 1.
+Ok, least unpleasant value is 260.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least price is 1.
+Ok, least price is 1.
+Ok, least unpleasant value is 512.
+No.
+No.
+Ok, least unpleasant value is 96.
+No.
+Yes.
+Yes.
+Ok, least price is 2.
+Ok, least price is 4.
+No.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 16.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 17.
+Ok, least price is 3.
+Ok, least unpleasant value is 100.
+No.
+Yes.
+Yes.
+No.
+Ok, least price is 2.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 64.
+Ok, length is 2.
+Ok, least unpleasant value is 68.
+Ok, length is 1.
+Yes.
+Ok, length is 1.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 5.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, length is 1.
+Yes.
+Yes.
+Ok, length is 1.
+Yes.
+Ok, least price is 2.
+Ok, least price is 1.
+Ok, least price is 2.
+Ok, length is 1.
+Ok, least unpleasant value is 256.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least unpleasant value is 264.
+No.
+Yes.
+Yes.
+Yes.
+Ok, least price is 2.
+Yes.
+Ok, length is 2.
+No.
+Ok, least unpleasant value is 40.
+No.
+Yes.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 16.
+Yes.
+Ok, least price is 1.
+Yes.
+Ok, least price is 3.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+No.
+No.
+Ok, length is 2.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 49.
+Ok, least unpleasant value is 4.
+Ok, least unpleasant value is 64.
+Yes.
+Ok, least transfer count is 0.
+No.
+Ok, least unpleasant value is 64.
+Ok, least transfer count is 0.
+Ok, least price is 4.
+Ok, least price is 1.
+Yes.
+Ok, least unpleasant value is 80.
+Ok, least price is 3.
+Yes.
+Yes.
+Ok, length is 2.
+Yes.
+Ok, length is 1.
+Ok, least unpleasant value is 16.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 80.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 20.
+No.
+Yes.
+No.
+Yes.
+Yes.
+No.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Yes.
+No.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 18.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 20.
+Yes.
+Ok, least unpleasant value is 52.
+Ok, least price is 2.
+Yes.
+Ok, least price is 1.
+Ok, least price is 3.
+Ok, least unpleasant value is 16.
+Yes.
+Ok, least unpleasant value is 320.
+Yes.
+Ok, least price is 3.
+Ok, least unpleasant value is 1.
+Yes.
+Yes.
+Ok, length is 1.
+Ok, length is 1.
+Yes.
+Ok, least price is 2.
+Ok, least price is 1.
+Ok, least price is 1.
+Yes.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, least unpleasant value is 4.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Yes.
+No.
+Ok, least price is 2.
+Ok, least price is 1.
+Ok, least unpleasant value is 4.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least unpleasant value is 13.
+Ok, least unpleasant value is 256.
+No.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 2.
+No.
+No.
+Ok, least unpleasant value is 21.
+Ok, least unpleasant value is 288.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, length is 1.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, length is 1.
+Ok, length is 2.
+Ok, least unpleasant value is 260.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least price is 1.
+Yes.
+Ok, least unpleasant value is 96.
+Ok, least price is 3.
+Yes.
+Ok, length is 2.
+Ok, least price is 1.
+Yes.
+Yes.
+Yes.
+Ok, least price is 3.
+Ok, least price is 2.
+Ok, least price is 2.
+Ok, least price is 3.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 272.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Yes.
+Yes.
+Yes.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least price is 3.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+No.
+Ok, length is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+Ok, length is 1.
+Yes.
+Ok, length is 2.
+Ok, length is 2.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 20.
+Yes.
+Yes.
+Ok, least price is 2.
+No.
+Yes.
+Ok, least price is 1.
+No.
+Ok, least transfer count is 0.
+No.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+Ok, least price is 1.
+Yes.
+Yes.
+Ok, length is 2.
+Ok, length is 1.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+No.
+Ok, least unpleasant value is 16.
+Ok, least unpleasant value is 14.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 93.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 64.
+Ok, least price is 1.
+Ok, least unpleasant value is 4.
+Ok, least price is 2.
+Ok, least unpleasant value is 272.
+No.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+No.
+Ok, least unpleasant value is 16.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+No.
+Yes.
+Ok, least transfer count is 0.
+No.
+No.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, length is 1.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least unpleasant value is 258.
+Ok, length is 1.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 33.
+Yes.
+Ok, least unpleasant value is 32.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+No.
+Yes.
+Yes.
+Yes.
+Ok, least unpleasant value is 37.
+Ok, least price is 4.
+Ok, least transfer count is 0.
+No.
+Ok, least price is 1.
+Ok, least unpleasant value is 5.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 64.
+Ok, least unpleasant value is 64.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Ok, length is 2.
+Ok, least price is 1.
+Ok, least price is 3.
+Ok, length is 2.
+Ok, least unpleasant value is 64.
+No.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 32.
+Ok, length is 2.
+Ok, least unpleasant value is 20.
+Ok, least unpleasant value is 16.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 40.
+Ok, least unpleasant value is 64.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 16.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+No.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least unpleasant value is 64.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 85.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+No.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+No.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+No.
+Ok, least price is 2.
+No.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least price is 1.
+No.
+Ok, least unpleasant value is 64.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 8.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 512.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Yes.
+Ok, least unpleasant value is 64.
+Ok, least price is 3.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least unpleasant value is 64.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, length is 1.
+Yes.
+No.
+No.
+Ok, least unpleasant value is 256.
+No.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 273.
+Ok, least price is 1.
+Yes.
+Yes.
+Ok, least unpleasant value is 80.
+Yes.
+Ok, least unpleasant value is 64.
+Ok, least unpleasant value is 264.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least unpleasant value is 72.
+Ok, length is 2.
+Ok, least price is 2.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, least unpleasant value is 64.
+Ok, length is 2.
+No.
+Yes.
+No.
+Ok, length is 2.
+Yes.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 288.
+Ok, least unpleasant value is 16.
+Yes.
+Ok, least unpleasant value is 8.
+Yes.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 1.
+Yes.
+Yes.
+Ok, length is 1.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Ok, length is 2.
+Yes.
+Yes.
+Yes.
+Ok, least unpleasant value is 128.
+Ok, least price is 1.
+Ok, least unpleasant value is 97.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 4.
+No.
+Ok, least unpleasant value is 257.
+Ok, least price is 1.
+Ok, length is 1.
+No.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 272.
+Ok, least unpleasant value is 1.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+No.
+Ok, least unpleasant value is 320.
+Ok, least price is 2.
+Yes.
+Ok, least price is 2.
+No.
+Ok, least unpleasant value is 64.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, length is 2.
+Yes.
+Ok, length is 1.
+Ok, least price is 1.
+Ok, least price is 2.
+Yes.
+Yes.
+Ok, length is 1.
+Ok, least unpleasant value is 256.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 64.
+Yes.
+Ok, least unpleasant value is 89.
+Yes.
+Ok, least price is 1.
+Ok, least price is 1.
+Yes.
+Ok, least unpleasant value is 64.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least unpleasant value is 260.
+Ok, least unpleasant value is 25.
+Ok, least price is 1.
+No.
+Yes.
+Ok, length is 1.
+Ok, least unpleasant value is 19.
+Ok, least price is 3.
+Ok, least transfer count is 0.
+No.
+No.
+Ok, least price is 3.
+Ok, length is 2.
+Ok, least price is 2.
+Yes.
+No.
+Ok, least price is 1.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least unpleasant value is 80.
+Ok, least unpleasant value is 100.
+Ok, least price is 1.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Yes.
+Ok, least price is 2.
+No.
+Yes.
+No.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 73.
+No.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 256.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 32.
+Ok, least unpleasant value is 16.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 1.
+Ok, length is 1.
+Yes.
+Ok, length is 1.
+Ok, length is 1.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 320.
+Yes.
+Yes.
+Yes.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, length is 1.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least price is 2.
+Ok, length is 1.
+Ok, least unpleasant value is 128.
+Ok, length is 2.
+Ok, length is 1.
+No.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least price is 2.
+Yes.
+Yes.
+Ok, least price is 2.
+Yes.
+Yes.
+Ok, length is 1.
+No.
+Ok, least unpleasant value is 52.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 4.
+No.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+Yes.
+Ok, length is 1.
+Ok, length is 2.
+Ok, least unpleasant value is 320.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, length is 2.
+No.
+Yes.
+Yes.
+Ok, least unpleasant value is 73.
+Ok, least unpleasant value is 1.
+Yes.
+Ok, least price is 2.
+Ok, least price is 1.
+Yes.
+Ok, least price is 1.
+Ok, least unpleasant value is 64.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, least unpleasant value is 80.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least unpleasant value is 12.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least unpleasant value is 80.
+Ok, least price is 3.
+Ok, least price is 1.
+Yes.
+Yes.
+Ok, least unpleasant value is 4.
+Yes.
+Ok, least unpleasant value is 280.
+Yes.
+Ok, length is 1.
+Yes.
+Ok, length is 1.
+Ok, length is 1.
+Yes.
+Yes.
+No.
+Yes.
+Ok, least price is 3.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, length is 1.
+Yes.
+Ok, least price is 2.
+No.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+No.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least unpleasant value is 288.
+Ok, least unpleasant value is 288.
+Ok, length is 2.
+Yes.
+Yes.
+Ok, least price is 1.
+Yes.
+Yes.
+Yes.
+Yes.
+Ok, least unpleasant value is 21.
+Ok, least unpleasant value is 4.
+Ok, least unpleasant value is 8.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+No.
+Yes.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least unpleasant value is 36.
+Ok, least unpleasant value is 16.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least unpleasant value is 64.
+Yes.
+Ok, least unpleasant value is 49.
+Ok, least price is 3.
+Ok, least unpleasant value is 0.
+Ok, least transfer count is 0.
+No.
+Yes.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 16.
+Yes.
+No.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 64.
+Ok, least transfer count is 0.
+No.
+Yes.
+Ok, length is 2.
+Ok, least price is 0.
+Yes.
+No.
+Ok, length is 1.
+Ok, length is 1.
+Ok, length is 2.
+Ok, least unpleasant value is 64.
+Ok, least unpleasant value is 64.
+Ok, least unpleasant value is 256.
+Yes.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 2.
+No.
+Ok, least unpleasant value is 4.
+Ok, length is 2.
+Yes.
+Ok, length is 2.
+Ok, least price is 1.
+No.
+Yes.
+Ok, length is 2.
+Yes.
+Yes.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least price is 2.
+Ok, length is 1.
+Ok, least price is 1.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, least price is 1.
+Ok, least price is 1.
+Ok, least unpleasant value is 17.
+Ok, least unpleasant value is 78.
+Ok, least price is 1.
+Ok, least price is 2.
+Ok, least unpleasant value is 4.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 20.
+Yes.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Yes.
+No.
+Yes.
+Ok, least price is 2.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, length is 1.
+Yes.
+Yes.
+Ok, least unpleasant value is 256.
+Yes.
+Yes.
+Ok, length is 1.
+Ok, least transfer count is 0.
+No.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+Ok, least unpleasant value is 96.
+Ok, length is 1.
+Yes.
+Ok, least price is 2.
+Yes.
+Ok, least price is 1.
+Ok, length is 2.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 1.
+Ok, least unpleasant value is 64.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least unpleasant value is 68.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 320.
+Ok, length is 2.
+Ok, least price is 4.
+Yes.
+Ok, least price is 2.
+No.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 17.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+No.
+Ok, length is 2.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least unpleasant value is 16.
+Yes.
+Ok, length is 2.
+No.
+Ok, least unpleasant value is 64.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 3.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Yes.
+Ok, length is 1.
+Yes.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least unpleasant value is 144.
+Yes.
+Ok, least price is 2.
+Ok, least price is 3.
+Ok, least unpleasant value is 20.
+Yes.
+Ok, least price is 2.
+Yes.
+Ok, least price is 3.
+Ok, length is 2.
+Yes.
+Yes.
+Ok, least price is 3.
+No.
+No.
+No.
+Ok, least unpleasant value is 64.
+Ok, least price is 2.
+Ok, least unpleasant value is 4.
+Yes.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, least unpleasant value is 11.
+No.
+Yes.
+No.
+Ok, length is 2.
+Ok, length is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least unpleasant value is 258.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 34.
+Yes.
+Yes.
+Ok, least price is 1.
+Yes.
+Ok, least price is 2.
+Ok, least price is 1.
+Ok, length is 1.
+Yes.
+No.
+Ok, length is 2.
+Ok, least price is 4.
+Ok, least unpleasant value is 16.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 320.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 2.
+No.
+Ok, length is 2.
+Ok, least unpleasant value is 18.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+No.
+No.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least price is 2.
+Ok, least price is 2.
+Ok, least price is 2.
+Ok, least unpleasant value is 20.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 64.
+No.
+Ok, least transfer count is 0.
+No.
+Ok, least price is 2.
+Ok, least unpleasant value is 256.
+Ok, least price is 2.
+Yes.
+No.
+Ok, least unpleasant value is 256.
+Yes.
+No.
+Ok, least price is 3.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least unpleasant value is 64.
+No.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+No.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+No.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, length is 2.
+Yes.
+Yes.
+Ok, least price is 1.
+Ok, length is 2.
+No.
+Yes.
+Ok, length is 2.
+No.
+No.
+Ok, least unpleasant value is 304.
+Ok, least unpleasant value is 64.
+Ok, least price is 1.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, least price is 3.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least unpleasant value is 32.
+Ok, least unpleasant value is 272.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, length is 1.
+Ok, least unpleasant value is 20.
+Yes.
+No.
+Yes.
+Yes.
+Ok, least price is 2.
+Yes.
+Ok, length is 1.
+Yes.
+Ok, least price is 1.
+Ok, least price is 2.
+Ok, least price is 1.
+Yes.
+Ok, least price is 1.
+Ok, least price is 3.
+Yes.
+Ok, least unpleasant value is 288.
+Yes.
+Ok, least price is 0.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 92.
+No.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least price is 3.
+Yes.
+Ok, least unpleasant value is 24.
+Ok, least price is 3.
+Ok, least unpleasant value is 6.
+No.
+Ok, length is 1.
+Yes.
+Ok, length is 1.
+Ok, least price is 4.
+Yes.
+Ok, length is 2.
+No.
+Yes.
+Yes.
+Ok, least price is 3.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+Ok, least price is 2.
+Ok, least unpleasant value is 128.
+No.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 4.
+Ok, least unpleasant value is 261.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 256.
+Ok, least unpleasant value is 97.
+Ok, least unpleasant value is 128.
+Ok, least price is 1.
+Yes.
+Ok, least unpleasant value is 320.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least unpleasant value is 298.
+Ok, length is 2.
+No.
+Yes.
+Yes.
+Ok, least price is 1.
+Yes.
+Yes.
+Ok, least unpleasant value is 64.
+Ok, least price is 2.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+No.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 320.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least price is 1.
+No.
+No.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least price is 2.
+Ok, least unpleasant value is 280.
+Ok, length is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 2.
+No.
+Ok, least price is 2.
+No.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least price is 1.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least unpleasant value is 256.
+No.
+Yes.
+No.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+No.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 268.
+Ok, length is 2.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 1.
+No.
+Ok, least unpleasant value is 32.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 128.
+Ok, length is 2.
+Ok, least price is 1.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Ok, length is 1.
+Yes.
+Ok, length is 2.
+Yes.
+Ok, length is 1.
+No.
+Ok, least price is 1.
+No.
+No.
+Ok, least unpleasant value is 264.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least unpleasant value is 82.
+Ok, least unpleasant value is 256.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least unpleasant value is 273.
+No.
+Ok, least unpleasant value is 8.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 64.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+No.
+Ok, least price is 1.
+Yes.
+Yes.
+No.
+Yes.
+Ok, length is 1.
+No.
+Ok, least price is 2.
+Ok, least price is 2.
+Ok, least unpleasant value is 16.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least price is 2.
+No.
+Ok, length is 1.
+Ok, least unpleasant value is 288.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 88.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Yes.
+Ok, least price is 2.
+Ok, length is 1.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 1.
+Yes.
+Ok, least unpleasant value is 16.
+Yes.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 256.
+Ok, least price is 2.
+Yes.
+Yes.
+Yes.
+Ok, least price is 1.
+Ok, length is 1.
+No.
+Ok, least price is 2.
+Ok, least unpleasant value is 65.
+Yes.
+Yes.
+Ok, length is 2.
+Ok, length is 1.
+Yes.
+No.
+Yes.
+Ok, least price is 1.
+Ok, length is 1.
+Ok, least unpleasant value is 16.
+Ok, length is 2.
+Ok, least unpleasant value is 4.
+Ok, least unpleasant value is 320.
+Ok, length is 1.
+Ok, least unpleasant value is 16.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 1.
+Ok, length is 1.
+Yes.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, least unpleasant value is 88.
+Ok, least unpleasant value is 64.
+Ok, length is 2.
+Yes.
+Ok, least price is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Yes.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least price is 2.
+Ok, length is 1.
+Ok, least price is 2.
+Ok, least price is 1.
+No.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least transfer count is 0.
+No.
+Ok, least unpleasant value is 293.
+Yes.
+Ok, least unpleasant value is 73.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 73.
+No.
+Ok, length is 1.
+Ok, least unpleasant value is 0.
+Ok, least price is 3.
+Ok, least price is 2.
+Yes.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least unpleasant value is 16.
+Yes.
+Ok, length is 1.
+Ok, length is 2.
+Yes.
+Ok, least price is 1.
+No.
+No.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least unpleasant value is 34.
+Yes.
+No.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, length is 1.
+Yes.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 1.
+No.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least price is 0.
+Yes.
+Ok, least unpleasant value is 67.
+Ok, least unpleasant value is 261.
+Ok, least price is 4.
+Yes.
+Ok, length is 2.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least transfer count is 0.
+No.
+Ok, least price is 1.
+Yes.
+Ok, least price is 1.
+Yes.
+Ok, length is 1.
+Ok, length is 2.
+Ok, least unpleasant value is 64.
+Ok, least unpleasant value is 4.
+Ok, least unpleasant value is 20.
+Ok, length is 2.
+Ok, least unpleasant value is 64.
+Ok, length is 2.
+Yes.
+Yes.
+Ok, least unpleasant value is 65.
+Ok, least unpleasant value is 260.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 16.
+Ok, least price is 1.
+Ok, least unpleasant value is 1.
+No.
+Yes.
+Ok, least unpleasant value is 4.
+Ok, least price is 1.
+Yes.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 512.
+Yes.
+Ok, length is 1.
+Ok, length is 1.
+Ok, least price is 1.
+Ok, least unpleasant value is 64.
+Yes.
+Yes.
+No.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+No.
+Ok, least unpleasant value is 25.
+Yes.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Yes.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, length is 2.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 72.
+Ok, least price is 2.
+Ok, least unpleasant value is 52.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+Yes.
+Ok, length is 0.
+Yes.
+Ok, least price is 2.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Yes.
+No.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 16.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least unpleasant value is 16.
+Ok, least unpleasant value is 52.
+Ok, least price is 2.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 264.
+Ok, least unpleasant value is 22.
+Ok, least price is 3.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 20.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least price is 3.
+Yes.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+No.
+No.
+Ok, least price is 2.
+Ok, least price is 1.
+Ok, least unpleasant value is 10.
+No.
+Ok, least price is 1.
+Ok, least unpleasant value is 80.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 1.
+Ok, length is 2.
+Yes.
+Yes.
+Yes.
+Yes.
+Ok, least price is 2.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 24.
+Ok, least price is 2.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, least unpleasant value is 64.
+Ok, length is 2.
+No.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+Ok, least unpleasant value is 4.
+Ok, least unpleasant value is 64.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Yes.
+Ok, least unpleasant value is 279.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+No.
+Ok, least price is 4.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+No.
+Ok, length is 1.
+Ok, length is 1.
+Yes.
+No.
+Yes.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 292.
+No.
+No.
+Ok, least unpleasant value is 20.
+Ok, least price is 2.
+Ok, least unpleasant value is 1.
+No.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 48.
+Ok, least price is 2.
+Ok, least price is 1.
+Ok, least unpleasant value is 257.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 37.
+Ok, length is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+No.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 20.
+Yes.
+Ok, least price is 1.
+Ok, least price is 4.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least price is 2.
+Yes.
+Ok, least unpleasant value is 72.
+No.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Yes.
+No.
+Ok, length is 2.
+Ok, least unpleasant value is 292.
+Ok, least unpleasant value is 16.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least price is 1.
+Yes.
+Yes.
+No.
+Ok, least price is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 2.
+No.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+No.
+Ok, least unpleasant value is 8.
+Ok, least price is 2.
+Ok, least unpleasant value is 33.
+Ok, least price is 3.
+Ok, least unpleasant value is 80.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+No.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 274.
+Ok, least price is 3.
+Yes.
+Ok, least unpleasant value is 68.
+Ok, length is 2.
+No.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least price is 1.
+Ok, least unpleasant value is 28.
+Yes.
+No.
+Ok, least price is 2.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 16.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+Ok, length is 2.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Yes.
+Ok, length is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 276.
+Ok, length is 1.
+Ok, least price is 1.
+Ok, least price is 1.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 64.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, least price is 2.
+Yes.
+Yes.
+Ok, least price is 1.
+Ok, least unpleasant value is 16.
+Ok, least unpleasant value is 64.
+Ok, least unpleasant value is 272.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+No.
+No.
+Ok, least transfer count is 0.
+No.
+Yes.
+Ok, least unpleasant value is 64.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 2.
+No.
+Yes.
+No.
+No.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Yes.
+Ok, least unpleasant value is 24.
+Ok, least unpleasant value is 256.
+No.
+Ok, least transfer count is 0.
+No.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Yes.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 2.
+No.
+Ok, least unpleasant value is 256.
+Ok, least price is 1.
+Ok, least price is 1.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 292.
+No.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Yes.
+No.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Yes.
+Ok, least price is 1.
+Ok, least unpleasant value is 292.
+No.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 4.
+Ok, least unpleasant value is 256.
+Ok, least unpleasant value is 24.
+Yes.
+Ok, least unpleasant value is 80.
+No.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Yes.
+No.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+Yes.
+Ok, least unpleasant value is 9.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 65.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 64.
+Yes.
+Yes.
+Ok, least unpleasant value is 289.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Yes.
+Yes.
+Ok, least unpleasant value is 32.
+No.
+Ok, least unpleasant value is 13.
+Ok, least price is 1.
+Ok, least price is 4.
+Yes.
+Yes.
+Ok, least price is 3.
+Ok, length is 1.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+Ok, least unpleasant value is 64.
+Ok, least unpleasant value is 96.
+Yes.
+Ok, least unpleasant value is 272.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least price is 1.
+Ok, least price is 2.
+No.
+Ok, length is 1.
+No.
+Ok, least unpleasant value is 88.
+Ok, least transfer count is 0.
+No.
+Ok, least unpleasant value is 0.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Yes.
+Ok, least unpleasant value is 4.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+No.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+No.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 512.
+Ok, length is 1.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least unpleasant value is 68.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+Ok, length is 1.
+No.
+Ok, length is 2.
+Ok, length is 1.
+No.
+Ok, least unpleasant value is 72.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least unpleasant value is 260.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 64.
+Ok, least price is 4.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Yes.
+Ok, least price is 2.
+Ok, least price is 2.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Yes.
+Ok, least price is 1.
+Ok, least unpleasant value is 16.
+Ok, least price is 1.
+Ok, least price is 1.
+Yes.
+Ok, least unpleasant value is 16.
+Ok, least unpleasant value is 64.
+Ok, length is 1.
+Yes.
+Ok, length is 0.
+Ok, length is 1.
+Ok, least unpleasant value is 512.
+No.
+Ok, least unpleasant value is 256.
+Ok, length is 2.
+Ok, least price is 2.
+Yes.
+Ok, least unpleasant value is 100.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+No.
+Ok, least unpleasant value is 4.
+Ok, least unpleasant value is 37.
+Ok, least unpleasant value is 272.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 280.
+Ok, least unpleasant value is 256.
+Ok, length is 1.
+Ok, least unpleasant value is 264.
+Yes.
+Ok, least unpleasant value is 64.
+Ok, least price is 2.
+Ok, least unpleasant value is 64.
+Yes.
+Ok, least price is 3.
+Yes.
+Yes.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, least unpleasant value is 9.
+Ok, length is 2.
+Ok, least price is 1.
+Yes.
+Yes.
+Ok, length is 2.
+Ok, least price is 3.
+Yes.
+No.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, least unpleasant value is 128.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 35.
+Ok, least unpleasant value is 256.
+Ok, length is 2.
+Ok, length is 2.
+Yes.
+Ok, least price is 3.
+Ok, length is 1.
+Ok, least unpleasant value is 37.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 1.
+Yes.
+Ok, least price is 1.
+Yes.
+Ok, least unpleasant value is 25.
+Yes.
+No.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, length is 1.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least price is 2.
+Yes.
+Ok, least price is 2.
+Ok, length is 2.
+Ok, length is 2.
+No.
+Yes.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least unpleasant value is 66.
+Ok, length is 2.
+Yes.
+Ok, least price is 2.
+No.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+Ok, length is 1.
+Yes.
+Ok, least price is 3.
+Yes.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 25.
+Yes.
+No.
+Ok, length is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+Ok, least unpleasant value is 276.
+Ok, length is 2.
+Yes.
+Ok, least price is 1.
+Yes.
+Ok, least price is 1.
+Ok, least price is 1.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 512.
+Ok, least price is 3.
+No.
+No.
+No.
+Ok, length is 2.
+Ok, length is 1.
+Yes.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 32.
+Ok, length is 2.
+Yes.
+Ok, least price is 3.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least unpleasant value is 320.
+Yes.
+No.
+Ok, least transfer count is 0.
+No.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least unpleasant value is 40.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 4.
+Yes.
+Yes.
+No.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+No.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+No.
+No.
+No.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 0.
+Ok, least price is 1.
+Yes.
+Ok, length is 1.
+Yes.
+Ok, length is 1.
+No.
+Yes.
+Ok, least price is 1.
+Ok, least unpleasant value is 68.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 64.
+Ok, least price is 1.
+Yes.
+No.
+Ok, least price is 1.
+No.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least price is 3.
+Yes.
+No.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least price is 2.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, least unpleasant value is 80.
+Yes.
+No.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least unpleasant value is 24.
+Ok, least unpleasant value is 256.
+No.
+Yes.
+Ok, least price is 3.
+No.
+Ok, least unpleasant value is 64.
+Yes.
+Yes.
+Ok, least unpleasant value is 320.
+Yes.
+Ok, least unpleasant value is 20.
+No.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+No.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 96.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least price is 2.
+Ok, length is 1.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least unpleasant value is 256.
+Ok, least price is 1.
+Ok, length is 1.
+Ok, least unpleasant value is 32.
+Ok, least price is 1.
+Ok, least unpleasant value is 64.
+Ok, least transfer count is 0.
+Ok, least price is 4.
+Yes.
+Ok, length is 2.
+Yes.
+Ok, least price is 2.
+No.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 32.
+Yes.
+Ok, least price is 1.
+Ok, length is 1.
+Yes.
+Ok, least unpleasant value is 16.
+Ok, length is 1.
+Ok, least transfer count is 0.
+No.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 1.
+No.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least price is 1.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 5.
+Ok, length is 1.
+Ok, least price is 2.
+Ok, least price is 2.
+Ok, least unpleasant value is 64.
+Ok, length is 2.
+Ok, least unpleasant value is 6.
+Ok, least price is 2.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, length is 2.
+No.
+Ok, length is 2.
+Ok, least price is 1.
+No.
+Yes.
+Yes.
+Ok, least price is 3.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Yes.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least price is 1.
+Yes.
+Yes.
+No.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Yes.
+Ok, least unpleasant value is 8.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 64.
+Ok, least unpleasant value is 16.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 68.
+Ok, least transfer count is 0.
+No.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+No.
+Ok, least unpleasant value is 256.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, least unpleasant value is 272.
+Yes.
+Ok, least price is 1.
+Ok, least price is 1.
+Ok, least unpleasant value is 16.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 3.
+Ok, least price is 2.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, least unpleasant value is 14.
+Ok, least price is 1.
+Yes.
+Ok, length is 2.
+Ok, least price is 1.
+Ok, least unpleasant value is 64.
+Ok, least unpleasant value is 9.
+No.
+Ok, least price is 2.
+Ok, least unpleasant value is 64.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+No.
+Ok, least price is 2.
+Ok, least price is 1.
+Ok, least price is 2.
+Yes.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+Ok, least unpleasant value is 20.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 288.
+Ok, least unpleasant value is 4.
+Ok, least price is 2.
+Ok, least price is 3.
+Yes.
+Ok, least price is 2.
+Ok, least price is 2.
+Ok, least unpleasant value is 256.
+Ok, least price is 1.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, least unpleasant value is 64.
+No.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Yes.
+Ok, least unpleasant value is 36.
+Ok, length is 2.
+Ok, least transfer count is 0.
+No.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+No.
+No.
+Ok, length is 1.
+Ok, length is 2.
+No.
+Ok, least price is 1.
+Yes.
+Ok, least price is 2.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 32.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 80.
+Yes.
+Yes.
+Ok, least price is 3.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 16.
+Ok, least price is 2.
+Ok, least unpleasant value is 256.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, least price is 2.
+No.
+Yes.
+Ok, length is 2.
+Ok, length is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+No.
+No.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Yes.
+No.
+Ok, least unpleasant value is 9.
+Ok, least price is 2.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, length is 1.
+Ok, length is 2.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 65.
+Ok, least unpleasant value is 5.
+Ok, least unpleasant value is 64.
+Ok, least unpleasant value is 64.
+No.
+Yes.
+Ok, least unpleasant value is 34.
+Ok, least price is 4.
+Ok, least unpleasant value is 32.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 72.
+Ok, least unpleasant value is 1.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Yes.
+Yes.
+Ok, least unpleasant value is 65.
+No.
+Yes.
+Yes.
+No.
+Ok, least unpleasant value is 256.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 257.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least price is 3.
+Ok, least price is 4.
+Ok, least unpleasant value is 272.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least price is 2.
+Yes.
+Ok, least unpleasant value is 17.
+Ok, least price is 3.
+Ok, least unpleasant value is 68.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+Ok, least transfer count is 0.
+No.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 42.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 2.
+No.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 1.
+Ok, least price is 2.
+Ok, least price is 2.
+Yes.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least price is 3.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+Ok, least price is 3.
+No.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+Ok, least price is 1.
+Ok, least price is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least price is 3.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Yes.
+Yes.
+Ok, least price is 2.
+Ok, least price is 3.
+Ok, least transfer count is 0.
+Yes.
+No.
+Yes.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 272.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 256.
+Ok, least unpleasant value is 20.
+Ok, least price is 1.
+Ok, length is 1.
+Ok, least price is 2.
+Ok, least unpleasant value is 64.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 276.
+Yes.
+Yes.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 82.
+Ok, least price is 2.
+Ok, least price is 1.
+Ok, length is 1.
+Yes.
+Yes.
+Ok, least price is 2.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, length is 1.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Yes.
+Yes.
+Ok, least price is 3.
+No.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 24.
+Ok, least unpleasant value is 64.
+Ok, least price is 2.
+Ok, least unpleasant value is 256.
+Ok, least unpleasant value is 256.
+Ok, least price is 2.
+Ok, least unpleasant value is 320.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 132.
+Yes.
+Ok, least unpleasant value is 272.
+Yes.
+Yes.
+Yes.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least price is 3.
+Ok, least unpleasant value is 292.
+No.
+Ok, least unpleasant value is 258.
+Ok, least unpleasant value is 25.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 34.
+Ok, least price is 3.
+Ok, least unpleasant value is 96.
+Ok, least price is 1.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least unpleasant value is 160.
+No.
+Yes.
+Ok, least unpleasant value is 112.
+Yes.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 1.
+No.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+No.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least unpleasant value is 16.
+Yes.
+Ok, length is 2.
+Ok, least price is 3.
+Ok, least unpleasant value is 64.
+Ok, least price is 2.
+Ok, least unpleasant value is 512.
+No.
+Yes.
+Yes.
+Ok, length is 1.
+Ok, least unpleasant value is 256.
+Ok, least unpleasant value is 256.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 67.
+Yes.
+Ok, least unpleasant value is 64.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 1.
+Ok, least unpleasant value is 24.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+No.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 1.
+No.
+Yes.
+No.
+Yes.
+Ok, least unpleasant value is 32.
+Ok, least unpleasant value is 64.
+Ok, least price is 2.
+Ok, least unpleasant value is 4.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least unpleasant value is 3.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+No.
+Yes.
+Ok, length is 1.
+Ok, length is 2.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 80.
+Ok, least unpleasant value is 272.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+No.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 24.
+Ok, length is 2.
+Yes.
+Ok, least price is 1.
+No.
+Ok, length is 2.
+No.
+Ok, least price is 1.
+Ok, least price is 3.
+Ok, least price is 2.
+Yes.
+Ok, length is 2.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+No.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 256.
+No.
+Ok, least unpleasant value is 4.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least price is 3.
+Yes.
+Yes.
+Ok, least unpleasant value is 32.
+No.
+No.
+Ok, least price is 1.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, least price is 3.
+Ok, least price is 2.
+Ok, least price is 1.
+Ok, length is 2.
+No.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 256.
+Ok, least price is 2.
+No.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+No.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least unpleasant value is 256.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 1.
+No.
+Yes.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+No.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 1.
+No.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+No.
+Yes.
+Ok, least price is 3.
+Ok, least unpleasant value is 256.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+Yes.
+No.
+Ok, least unpleasant value is 260.
+Yes.
+Ok, least price is 2.
+Ok, least price is 3.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+No.
+Ok, least unpleasant value is 20.
+No.
+Ok, least price is 1.
+Yes.
+Ok, least unpleasant value is 17.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 17.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+No.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+No.
+Ok, length is 1.
+Ok, least price is 2.
+Yes.
+Yes.
+Ok, least price is 3.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, length is 1.
+Ok, length is 2.
+Ok, least price is 1.
+Ok, length is 2.
+No.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Yes.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least price is 2.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+No.
+Ok, least price is 4.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 64.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Yes.
+Ok, length is 2.
+Ok, least price is 1.
+No.
+Ok, least price is 2.
+Ok, length is 2.
+Ok, length is 1.
+Ok, length is 2.
+Yes.
+Yes.
+Yes.
+Ok, least unpleasant value is 36.
+Yes.
+Ok, least unpleasant value is 16.
+Ok, length is 1.
+Yes.
+Ok, least unpleasant value is 268.
+Ok, least unpleasant value is 16.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+No.
+No.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+No.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+Ok, length is 2.
+No.
+Yes.
+Ok, least unpleasant value is 97.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 72.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least unpleasant value is 16.
+Yes.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 1.
+Ok, length is 1.
+Yes.
+Yes.
+Ok, length is 0.
+Ok, least unpleasant value is 68.
+Ok, least unpleasant value is 256.
+Ok, length is 2.
+Yes.
+Ok, length is 2.
+No.
+Yes.
+Ok, length is 1.
+Yes.
+Ok, least price is 1.
+Yes.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least price is 2.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least unpleasant value is 256.
+Yes.
+Yes.
+Ok, least unpleasant value is 37.
+Yes.
+Ok, least price is 2.
+Ok, length is 1.
+No.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 2.
+No.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least price is 4.
+Ok, least price is 2.
+Yes.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 48.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, length is 1.
+Ok, least unpleasant value is 320.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+Ok, length is 2.
+Ok, least unpleasant value is 32.
+Ok, length is 1.
+Yes.
+Ok, length is 1.
+No.
+Yes.
+Ok, least price is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+No.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least unpleasant value is 80.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least unpleasant value is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 64.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Yes.
+No.
+Ok, least price is 2.
+No.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 64.
+Ok, least unpleasant value is 64.
+No.
+Yes.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+Ok, least price is 2.
+Ok, least price is 1.
+Ok, least unpleasant value is 32.
+No.
+No.
+Ok, length is 1.
+Ok, least price is 1.
+No.
+Ok, least unpleasant value is 16.
+Ok, least price is 2.
+Ok, least unpleasant value is 256.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+Ok, length is 2.
+Yes.
+Yes.
+Ok, least price is 1.
+Ok, length is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+No.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 0.
+Ok, least price is 2.
+Ok, length is 1.
+No.
+Ok, least unpleasant value is 260.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 256.
+Ok, least price is 1.
+Ok, length is 1.
+No.
+Ok, least price is 2.
+Ok, least price is 2.
+Ok, least unpleasant value is 32.
+No.
+Yes.
+No.
+No.
+Yes.
+Yes.
+Ok, least unpleasant value is 64.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, length is 1.
+No.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+Ok, length is 2.
+No.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 65.
+Ok, least transfer count is 0.
+Ok, length is 1.
+No.
+Ok, least unpleasant value is 48.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 64.
+Ok, length is 1.
+Ok, least unpleasant value is 260.
+Ok, length is 1.
+Ok, least transfer count is 0.
+No.
+Ok, least price is 2.
+Ok, length is 1.
+No.
+Ok, length is 1.
+Ok, least unpleasant value is 64.
+Ok, length is 1.
+Ok, length is 2.
+Ok, least unpleasant value is 256.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+No.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, least price is 2.
+Ok, least price is 2.
+Yes.
+Ok, least price is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least price is 3.
+Ok, length is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least price is 2.
+Ok, length is 1.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 1.
+Ok, least price is 2.
+No.
+Ok, least unpleasant value is 16.
+Ok, length is 1.
+Ok, length is 2.
+Ok, least unpleasant value is 37.
+Ok, least unpleasant value is 284.
+Ok, length is 1.
+Ok, least unpleasant value is 1.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+No.
+Yes.
+Yes.
+No.
+Ok, length is 1.
+Ok, least unpleasant value is 32.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 66.
+Ok, least price is 1.
+Ok, length is 1.
+Ok, least unpleasant value is 320.
+Ok, length is 1.
+Ok, least price is 2.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 256.
+Ok, least price is 2.
+Ok, least unpleasant value is 4.
+Yes.
+No.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+No.
+Yes.
+Ok, least price is 2.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, length is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+No.
+Ok, least price is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+No.
+Ok, length is 2.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, length is 1.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 2.
+No.
+Ok, least unpleasant value is 16.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+Yes.
+No.
+Yes.
+Ok, least unpleasant value is 8.
+Yes.
+Ok, least price is 1.
+Yes.
+No.
+Yes.
+Ok, length is 1.
+Ok, least unpleasant value is 36.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least price is 1.
+No.
+Ok, length is 1.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+Yes.
+Yes.
+Yes.
+Ok, least price is 1.
+Ok, least price is 1.
+Ok, length is 2.
+No.
+No.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least unpleasant value is 80.
+Yes.
+Ok, least price is 4.
+Ok, length is 2.
+Ok, least unpleasant value is 80.
+No.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 4.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 4.
+No.
+Ok, length is 1.
+Yes.
+Ok, length is 1.
+Ok, length is 1.
+No.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Yes.
+No.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 256.
+Ok, least unpleasant value is 68.
+Yes.
+Ok, least unpleasant value is 16.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 2.
+Ok, length is 2.
+No.
+Yes.
+Yes.
+Ok, least price is 2.
+Ok, length is 2.
+Ok, length is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 288.
+Yes.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least unpleasant value is 257.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+No.
+Ok, length is 2.
+No.
+Ok, length is 2.
+Yes.
+Ok, least price is 2.
+No.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least price is 3.
+Ok, least unpleasant value is 2.
+No.
+Ok, least unpleasant value is 256.
+Ok, least unpleasant value is 17.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+No.
+Ok, length is 2.
+Yes.
+Yes.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 64.
+Ok, length is 1.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+Yes.
+Yes.
+Ok, least unpleasant value is 261.
+Ok, least unpleasant value is 80.
+Ok, length is 1.
+No.
+Ok, length is 1.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least price is 3.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, least unpleasant value is 256.
+Ok, least unpleasant value is 4.
+Yes.
+Ok, least price is 1.
+Yes.
+No.
+Ok, length is 2.
+Ok, least price is 1.
+Ok, length is 2.
+No.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 512.
+Ok, least price is 3.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 4.
+Yes.
+Ok, least unpleasant value is 272.
+Ok, length is 1.
+Yes.
+Yes.
+Yes.
+Ok, least price is 2.
+Ok, length is 2.
+Ok, least unpleasant value is 256.
+Ok, least unpleasant value is 320.
+Yes.
+Yes.
+Ok, length is 2.
+No.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 257.
+Ok, least price is 3.
+Yes.
+Yes.
+Ok, least price is 1.
+Ok, least unpleasant value is 73.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+Ok, length is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least unpleasant value is 256.
+Ok, least unpleasant value is 272.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least unpleasant value is 512.
+Ok, least unpleasant value is 39.
+Ok, least unpleasant value is 272.
+Yes.
+Yes.
+No.
+No.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, length is 1.
+Ok, length is 1.
+Ok, least unpleasant value is 80.
+Yes.
+Ok, length is 2.
+Yes.
+Yes.
+Ok, least unpleasant value is 48.
+No.
+Ok, least price is 2.
+No.
+Ok, length is 1.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least price is 2.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 32.
+Yes.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Yes.
+Yes.
+Ok, least unpleasant value is 24.
+Ok, least price is 3.
+Ok, least price is 1.
+Ok, least price is 2.
+Yes.
+Ok, least price is 1.
+Ok, length is 1.
+No.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least unpleasant value is 256.
+Ok, least unpleasant value is 64.
+Ok, least price is 2.
+Ok, least price is 1.
+No.
+Ok, least unpleasant value is 257.
+Yes.
+Ok, length is 2.
+Ok, length is 1.
+No.
+Ok, length is 1.
+No.
+Ok, least unpleasant value is 41.
+Ok, length is 2.
+Ok, least unpleasant value is 128.
+No.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least price is 3.
+Ok, least unpleasant value is 64.
+Ok, least price is 3.
+Ok, least price is 3.
+Ok, length is 2.
+Ok, least price is 4.
+No.
+Yes.
+Yes.
+Ok, least price is 1.
+Ok, least unpleasant value is 9.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+No.
+Yes.
+Ok, least price is 1.
+Ok, least price is 2.
+No.
+Ok, length is 2.
+No.
+Ok, least transfer count is 0.
+No.
+Ok, least unpleasant value is 256.
+Ok, least price is 2.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+No.
+Ok, least unpleasant value is 256.
+Ok, length is 2.
+Ok, length is 1.
+Ok, length is 2.
+Yes.
+Ok, length is 1.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 64.
+Yes.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least unpleasant value is 52.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 263.
+Ok, length is 1.
+Yes.
+Ok, length is 2.
+No.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 29.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 1.
+Yes.
+No.
+Yes.
+Ok, least unpleasant value is 4.
+Ok, least transfer count is 0.
+Yes.
+No.
+Yes.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least price is 2.
+No.
+Yes.
+Ok, least unpleasant value is 4.
+Ok, least price is 2.
+Yes.
+Ok, least price is 1.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least unpleasant value is 81.
+Ok, least unpleasant value is 256.
+Ok, least price is 2.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Yes.
+Ok, length is 1.
+Ok, least price is 2.
+Ok, least unpleasant value is 16.
+Ok, least unpleasant value is 66.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 3.
+Ok, least unpleasant value is 43.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least price is 3.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 2.
+Ok, least price is 1.
+Ok, length is 1.
+Ok, least transfer count is 0.
+No.
+Ok, length is 2.
+Ok, length is 1.
+Ok, length is 1.
+Ok, least price is 2.
+Ok, least unpleasant value is 20.
+Ok, least unpleasant value is 66.
+Yes.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 20.
+Yes.
+No.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 64.
+Ok, least unpleasant value is 1.
+Yes.
+Yes.
+Ok, least price is 3.
+No.
+Ok, length is 1.
+Yes.
+Ok, length is 1.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+No.
+No.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+No.
+Yes.
+Ok, length is 2.
+Ok, least price is 1.
+No.
+Yes.
+Yes.
+Ok, least price is 2.
+Ok, length is 2.
+Ok, least unpleasant value is 16.
+Yes.
+Ok, least price is 1.
+No.
+No.
+Yes.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least unpleasant value is 32.
+Ok, least price is 1.
+Ok, length is 2.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+No.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+No.
+No.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 256.
+Ok, least unpleasant value is 521.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 272.
+Ok, length is 1.
+Ok, least unpleasant value is 256.
+Ok, length is 2.
+Yes.
+Ok, least price is 2.
+Yes.
+No.
+Ok, length is 2.
+Yes.
+Ok, length is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 132.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 320.
+Ok, least price is 2.
+No.
+Ok, least price is 3.
+No.
+Yes.
+Ok, least unpleasant value is 64.
+Ok, least unpleasant value is 20.
+Yes.
+Ok, least unpleasant value is 289.
+Ok, length is 1.
+Ok, length is 2.
+Yes.
+Ok, length is 2.
+Ok, least price is 1.
+Ok, least price is 3.
+No.
+Ok, least price is 1.
+Ok, least price is 2.
+Ok, least price is 1.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 68.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 19.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Yes.
+No.
+Ok, least unpleasant value is 64.
+Ok, least price is 1.
+Ok, least unpleasant value is 16.
+Ok, least transfer count is 0.
+No.
+Yes.
+Ok, least unpleasant value is 24.
+Ok, least price is 1.
+Ok, length is 1.
+Ok, least unpleasant value is 37.
+Ok, length is 1.
+Ok, least unpleasant value is 64.
+Ok, least unpleasant value is 68.
+Ok, length is 2.
+Ok, length is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 2.
+No.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 13.
+Yes.
+Ok, least transfer count is 0.
+No.
+Ok, least unpleasant value is 17.
+Yes.
+Yes.
+Ok, least price is 1.
+Ok, length is 1.
+Ok, length is 2.
+Yes.
+No.
+Yes.
+No.
+Ok, least unpleasant value is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 5.
+Ok, least price is 2.
+Ok, least unpleasant value is 64.
+Ok, least price is 2.
+Ok, least unpleasant value is 8.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 260.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Ok, least price is 3.
+No.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 20.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 64.
+Ok, length is 1.
+No.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 65.
+Ok, least price is 3.
+Ok, least unpleasant value is 4.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+No.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 1.
+Ok, least unpleasant value is 24.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+No.
+Ok, least unpleasant value is 288.
+Ok, least price is 1.
+Ok, least price is 1.
+Ok, least price is 2.
+Ok, least unpleasant value is 64.
+Ok, least unpleasant value is 65.
+Ok, least unpleasant value is 4.
+Ok, least price is 3.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 4.
+Ok, least price is 1.
+Ok, least price is 1.
+Yes.
+Ok, least unpleasant value is 72.
+Yes.
+Yes.
+Ok, least unpleasant value is 280.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 272.
+Yes.
+Yes.
+Yes.
+Ok, least unpleasant value is 33.
+No.
+Yes.
+Yes.
+No.
+No.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+Yes.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 4.
+Ok, least unpleasant value is 68.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+No.
+Ok, length is 1.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least unpleasant value is 64.
+Yes.
+Yes.
+Yes.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 4.
+Yes.
+Ok, length is 1.
+No.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 1.
+Ok, least price is 1.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 0.
+Ok, least unpleasant value is 64.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 1.
+Ok, least unpleasant value is 49.
+Ok, length is 1.
+No.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least unpleasant value is 257.
+Ok, least price is 2.
+Yes.
+Ok, length is 1.
+Yes.
+No.
+Yes.
+Ok, least price is 1.
+Ok, least price is 3.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Yes.
+Ok, length is 2.
+No.
+Yes.
+Ok, length is 2.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 80.
+Ok, length is 2.
+Ok, length is 1.
+Ok, length is 1.
+No.
+Ok, length is 2.
+Ok, least unpleasant value is 264.
+Ok, least price is 3.
+Ok, length is 2.
+Yes.
+Yes.
+Ok, least price is 1.
+Ok, least unpleasant value is 80.
+Ok, least price is 2.
+Ok, least unpleasant value is 258.
+No.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+No.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+No.
+No.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 3.
+Ok, least price is 1.
+Ok, least unpleasant value is 324.
+Ok, least unpleasant value is 32.
+Ok, least price is 3.
+Ok, length is 1.
+Yes.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least price is 2.
+Yes.
+Ok, least unpleasant value is 257.
+Ok, least price is 1.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 26.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least unpleasant value is 292.
+Ok, least price is 2.
+No.
+Yes.
+No.
+Ok, length is 2.
+Ok, least unpleasant value is 28.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+No.
+Ok, length is 2.
+Ok, least unpleasant value is 2.
+Ok, length is 2.
+Ok, least unpleasant value is 32.
+Yes.
+Yes.
+Ok, least price is 1.
+Yes.
+No.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least unpleasant value is 49.
+Yes.
+No.
+Yes.
+Ok, least price is 2.
+No.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 1.
+Ok, least unpleasant value is 80.
+Yes.
+Ok, least unpleasant value is 96.
+Ok, least price is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least unpleasant value is 68.
+Ok, least price is 2.
+No.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 20.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, least unpleasant value is 36.
+Yes.
+Ok, least unpleasant value is 32.
+No.
+No.
+Ok, length is 2.
+No.
+Ok, least unpleasant value is 256.
+Ok, least unpleasant value is 33.
+Ok, length is 2.
+No.
+Ok, least unpleasant value is 1.
+Ok, length is 1.
+Ok, least price is 2.
+No.
+Ok, least unpleasant value is 256.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+No.
+Ok, length is 1.
+Ok, least price is 2.
+Yes.
+No.
+Yes.
+Ok, least price is 2.
+Ok, length is 2.
+Ok, length is 2.
+No.
+Yes.
+No.
+Yes.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 14.
+Ok, least price is 1.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 128.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Yes.
+Ok, length is 1.
+Yes.
+No.
+Ok, least unpleasant value is 3.
+Yes.
+Yes.
+Ok, length is 1.
+Ok, length is 1.
+Ok, least unpleasant value is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 512.
+Ok, least price is 3.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 24.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+Ok, length is 1.
+Ok, least unpleasant value is 37.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 13.
+Ok, least unpleasant value is 37.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 32.
+No.
+Yes.
+Yes.
+Yes.
+Ok, least price is 2.
+No.
+Ok, least unpleasant value is 16.
+Ok, length is 2.
+Ok, least unpleasant value is 5.
+Ok, length is 2.
+Ok, length is 2.
+Yes.
+Ok, length is 1.
+No.
+Yes.
+Yes.
+Yes.
+Yes.
+Ok, length is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least unpleasant value is 268.
+Ok, length is 1.
+Yes.
+Ok, length is 1.
+Ok, least unpleasant value is 48.
+Ok, length is 1.
+Ok, least price is 3.
+No.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, length is 2.
+No.
+Ok, length is 1.
+Ok, least price is 1.
+Ok, least unpleasant value is 272.
+Ok, least price is 2.
+Ok, length is 1.
+Ok, length is 2.
+Ok, least transfer count is 0.
+No.
+Ok, length is 2.
+Ok, least unpleasant value is 16.
+Ok, length is 1.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 6.
+Yes.
+Yes.
+Yes.
+Ok, least price is 1.
+Yes.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 40.
+Ok, least price is 1.
+Yes.
+Yes.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 80.
+Ok, length is 2.
+Yes.
+Ok, length is 1.
+Ok, least unpleasant value is 88.
+Ok, length is 1.
+Yes.
+Ok, least price is 2.
+Ok, least price is 3.
+No.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least unpleasant value is 256.
+Ok, least price is 1.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+No.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least unpleasant value is 512.
+Ok, least price is 1.
+Ok, least unpleasant value is 272.
+No.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 32.
+Yes.
+No.
+Ok, least unpleasant value is 8.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 36.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 19.
+Ok, length is 2.
+Yes.
+Ok, least price is 2.
+Ok, least price is 2.
+Ok, length is 2.
+Ok, least unpleasant value is 267.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 32.
+Ok, length is 2.
+Ok, least price is 1.
+No.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+No.
+Ok, least unpleasant value is 32.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 264.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least unpleasant value is 32.
+Yes.
+Yes.
+Yes.
+Yes.
+Ok, least unpleasant value is 80.
+Yes.
+Ok, least price is 2.
+Yes.
+Ok, least unpleasant value is 512.
+Ok, least price is 2.
+Ok, least unpleasant value is 528.
+Ok, least unpleasant value is 112.
+Yes.
+Ok, least unpleasant value is 64.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Yes.
+Ok, least price is 1.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least unpleasant value is 257.
+Ok, least unpleasant value is 84.
+Ok, length is 2.
+Ok, least unpleasant value is 272.
+Ok, least price is 2.
+Ok, least unpleasant value is 269.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, length is 1.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Yes.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+No.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least price is 2.
+Yes.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 97.
+Ok, least unpleasant value is 260.
+Ok, length is 1.
+Ok, least unpleasant value is 320.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Yes.
+Yes.
+No.
+Ok, least unpleasant value is 76.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 160.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+No.
+No.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least price is 2.
+Yes.
+Yes.
+No.
+No.
+Yes.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 256.
+No.
+Yes.
+Ok, least price is 2.
+No.
+No.
+No.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+No.
+Ok, length is 2.
+Ok, least unpleasant value is 1.
+Ok, least unpleasant value is 16.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+No.
+Ok, least unpleasant value is 4.
+Ok, least price is 3.
+Ok, least unpleasant value is 64.
+Ok, least unpleasant value is 32.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 44.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+Ok, least unpleasant value is 1.
+Ok, least price is 1.
+Yes.
+Yes.
+Yes.
+Ok, least unpleasant value is 272.
+Ok, length is 1.
+Ok, least unpleasant value is 16.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Yes.
+Ok, least price is 1.
+Yes.
+Yes.
+No.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, least unpleasant value is 65.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least price is 1.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+No.
+Yes.
+No.
+Ok, length is 2.
+Yes.
+Yes.
+Ok, length is 2.
+Yes.
+Ok, least price is 1.
+Ok, length is 2.
+No.
+No.
+Ok, least unpleasant value is 64.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 320.
+Ok, least price is 1.
+No.
+Ok, length is 2.
+No.
+Ok, least unpleasant value is 79.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 2.
+No.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+Yes.
+Ok, least unpleasant value is 32.
+Ok, least unpleasant value is 257.
+Ok, length is 2.
+Yes.
+Ok, length is 2.
+No.
+Ok, length is 1.
+Ok, length is 2.
+Ok, least unpleasant value is 256.
+Ok, length is 2.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, length is 1.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least price is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least unpleasant value is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 272.
+Ok, least unpleasant value is 272.
+Ok, least unpleasant value is 4.
+Yes.
+Yes.
+Yes.
+Yes.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+No.
+Ok, least unpleasant value is 64.
+Yes.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Yes.
+Ok, least unpleasant value is 80.
+Yes.
+No.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, least price is 2.
+Yes.
+Yes.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 279.
+Ok, least unpleasant value is 68.
+No.
+Ok, least price is 1.
+No.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 1.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+Ok, length is 1.
+Yes.
+No.
+Ok, least transfer count is 0.
+No.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 1.
+Ok, length is 1.
+Yes.
+Ok, least unpleasant value is 64.
+Yes.
+Ok, length is 2.
+Ok, least price is 4.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 88.
+Ok, least unpleasant value is 16.
+No.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 272.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+No.
+Ok, length is 2.
+Yes.
+Ok, length is 1.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, least price is 1.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 33.
+No.
+Ok, least price is 1.
+Ok, least price is 2.
+Ok, least price is 2.
+Ok, least price is 2.
+Ok, least price is 1.
+No.
+Ok, least unpleasant value is 64.
+Yes.
+No.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Yes.
+Yes.
+Ok, least price is 2.
+Yes.
+Ok, least unpleasant value is 64.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 1.
+Ok, least unpleasant value is 64.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least unpleasant value is 272.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least price is 1.
+Yes.
+Ok, length is 2.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 260.
+Ok, least price is 3.
+Ok, length is 2.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 260.
+Ok, length is 1.
+Ok, least price is 1.
+No.
+Ok, least price is 3.
+Ok, least unpleasant value is 320.
+Yes.
+Ok, least price is 3.
+Ok, least unpleasant value is 52.
+Yes.
+Yes.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+No.
+Ok, least transfer count is 0.
+Ok, length is 1.
+No.
+Ok, least price is 2.
+No.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least price is 1.
+Ok, length is 1.
+Ok, least unpleasant value is 64.
+Ok, least unpleasant value is 4.
+Ok, least price is 1.
+Yes.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+No.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 64.
+No.
+Ok, least price is 1.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+No.
+Yes.
+Ok, least unpleasant value is 32.
+No.
+Yes.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 1.
+Ok, least unpleasant value is 273.
+Yes.
+Ok, least unpleasant value is 68.
+Ok, least transfer count is 0.
+No.
+Yes.
+Ok, least unpleasant value is 1.
+Ok, least unpleasant value is 4.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least price is 1.
+Ok, least unpleasant value is 39.
+Yes.
+Ok, least unpleasant value is 16.
+Yes.
+Yes.
+Yes.
+No.
+Ok, length is 0.
+No.
+Ok, length is 0.
+Ok, length is 1.
+Ok, least price is 2.
+Ok, length is 2.
+Yes.
+Ok, length is 2.
+Ok, least price is 3.
+No.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, length is 1.
+Yes.
+Ok, least price is 1.
+Ok, length is 2.
+No.
+No.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+Ok, length is 1.
+Ok, least unpleasant value is 272.
+Ok, least price is 1.
+Ok, length is 1.
+Ok, length is 2.
+No.
+Yes.
+Ok, length is 2.
+Ok, length is 2.
+Yes.
+No.
+Ok, least price is 1.
+No.
+Ok, length is 2.
+Ok, least unpleasant value is 49.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+Yes.
+Ok, least price is 1.
+Ok, length is 1.
+Yes.
+No.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+No.
+Yes.
+Ok, length is 1.
+No.
+Ok, least unpleasant value is 261.
+Ok, least transfer count is 0.
+Ok, length is 1.
+No.
+Yes.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 66.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least price is 2.
+No.
+Ok, least price is 2.
+Ok, least price is 3.
+Ok, least unpleasant value is 64.
+Ok, least price is 3.
+Ok, least price is 1.
+No.
+Ok, least unpleasant value is 289.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Yes.
+Yes.
+Ok, length is 1.
+Ok, length is 1.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 275.
+Ok, least unpleasant value is 56.
+Ok, least unpleasant value is 257.
+Ok, length is 2.
+Yes.
+Yes.
+Ok, least unpleasant value is 32.
+Ok, length is 2.
+Ok, length is 2.
+Yes.
+Ok, least price is 1.
+Yes.
+Yes.
+Ok, least unpleasant value is 97.
+Ok, least unpleasant value is 128.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least unpleasant value is 256.
+No.
+Ok, least transfer count is 0.
+Yes.
+No.
+Yes.
+Ok, least unpleasant value is 320.
+No.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least price is 3.
+No.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 512.
+Ok, least unpleasant value is 256.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least price is 2.
+Ok, least price is 1.
+Yes.
+Ok, length is 2.
+Ok, length is 2.
+Ok, length is 2.
+Ok, length is 2.
+No.
+Ok, least price is 3.
+Ok, least price is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least unpleasant value is 1.
+Yes.
+Ok, length is 2.
+Ok, length is 2.
+Ok, least unpleasant value is 304.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 513.
+Ok, length is 2.
+Yes.
+Ok, least price is 1.
+Ok, length is 1.
+No.
+Ok, least price is 3.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 64.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 65.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+No.
+Ok, least price is 1.
+Yes.
+Ok, length is 2.
+Ok, length is 2.
+Ok, length is 2.
+Yes.
+No.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+Ok, least unpleasant value is 4.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+No.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 3.
+Ok, least price is 2.
+Yes.
+Ok, least price is 1.
+Ok, least unpleasant value is 6.
+Ok, least price is 2.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+Yes.
+Ok, least unpleasant value is 16.
+Ok, length is 1.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 16.
+Yes.
+Ok, least unpleasant value is 64.
+Yes.
+Ok, least price is 2.
+Ok, least price is 4.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 322.
+Ok, least unpleasant value is 24.
+No.
+Ok, length is 2.
+Yes.
+Ok, length is 1.
+Ok, length is 1.
+Ok, least unpleasant value is 265.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 266.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+Ok, length is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, least price is 1.
+Ok, least unpleasant value is 32.
+Yes.
+Ok, length is 1.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, length is 1.
+No.
+Yes.
+Ok, length is 2.
+Yes.
+No.
+Ok, least price is 1.
+Ok, length is 2.
+Ok, least price is 1.
+Yes.
+No.
+Ok, least price is 2.
+Yes.
+Yes.
+Ok, length is 1.
+No.
+Ok, least price is 2.
+Yes.
+Ok, length is 2.
+Ok, length is 1.
+Yes.
+Ok, least price is 3.
+Ok, least price is 2.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, length is 1.
+No.
+Ok, least unpleasant value is 64.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 1.
+Ok, least price is 2.
+Ok, least unpleasant value is 64.
+Yes.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 10.
+No.
+Ok, length is 2.
+Ok, least price is 2.
+No.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 256.
+Ok, least price is 1.
+Ok, least price is 0.
+Ok, least price is 1.
+Yes.
+No.
+Yes.
+Yes.
+Ok, least unpleasant value is 66.
+Yes.
+No.
+Ok, least unpleasant value is 21.
+Ok, length is 2.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+No.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 320.
+Yes.
+Ok, length is 2.
+Ok, least price is 1.
+Ok, least price is 1.
+Ok, least unpleasant value is 68.
+No.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 1.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 256.
+Yes.
+Ok, least unpleasant value is 16.
+Ok, least unpleasant value is 320.
+Ok, least unpleasant value is 64.
+Ok, length is 2.
+Ok, least unpleasant value is 16.
+Ok, length is 2.
+Yes.
+Ok, least price is 3.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 272.
+Yes.
+Yes.
+Ok, least unpleasant value is 288.
+No.
+Ok, least unpleasant value is 33.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 266.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+Ok, least price is 2.
+Ok, least unpleasant value is 16.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 64.
+No.
+Ok, least price is 3.
+Ok, least unpleasant value is 513.
+Ok, length is 1.
+No.
+No.
+Ok, length is 2.
+Ok, least price is 1.
+Ok, least price is 3.
+Ok, length is 1.
+No.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, length is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Yes.
+Ok, length is 1.
+Yes.
+Yes.
+Ok, length is 1.
+Ok, least unpleasant value is 64.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+No.
+Yes.
+Ok, least unpleasant value is 16.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, length is 2.
+No.
+Ok, length is 1.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 1.
+Yes.
+Ok, least price is 2.
+No.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least unpleasant value is 5.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+No.
+Yes.
+No.
+Ok, least unpleasant value is 34.
+Ok, least transfer count is 0.
+No.
+Ok, length is 1.
+Yes.
+Ok, least price is 2.
+Ok, length is 2.
+Ok, least unpleasant value is 320.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 324.
+Ok, least price is 1.
+Ok, least unpleasant value is 21.
+Yes.
+Yes.
+Yes.
+Ok, least price is 2.
+Yes.
+Ok, least price is 1.
+No.
+Ok, least price is 3.
+No.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+No.
+Yes.
+Yes.
+Ok, least price is 1.
+No.
+Ok, least price is 1.
+Yes.
+Ok, length is 1.
+Ok, least unpleasant value is 8.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 1.
+No.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 3.
+Ok, least price is 2.
+Yes.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 512.
+Ok, least unpleasant value is 0.
+Ok, least price is 2.
+Ok, least price is 3.
+Ok, least unpleasant value is 16.
+Yes.
+Ok, length is 2.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, length is 2.
+Ok, least unpleasant value is 21.
+Ok, least price is 3.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+No.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 256.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, length is 2.
+No.
+Yes.
+Ok, length is 1.
+Yes.
+Yes.
+Ok, least unpleasant value is 320.
+Ok, least unpleasant value is 276.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 1.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+No.
+Yes.
+Ok, length is 2.
+Ok, least price is 4.
+Ok, length is 1.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 1.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, length is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, length is 2.
+No.
+Yes.
+Ok, least price is 2.
+No.
+Yes.
+Ok, least unpleasant value is 512.
+Ok, least transfer count is 0.
+Yes.
+Ok, least unpleasant value is 64.
+Ok, least price is 3.
+No.
+Yes.
+Ok, least price is 1.
+Yes.
+Ok, least unpleasant value is 64.
+Ok, length is 1.
+Ok, least transfer count is 0.
+No.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 17.
+Yes.
+No.
+Ok, length is 2.
+Ok, least unpleasant value is 16.
+Ok, least price is 1.
+Yes.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, length is 1.
+Yes.
+Ok, least unpleasant value is 64.
+Ok, least unpleasant value is 65.
+Ok, least unpleasant value is 12.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 1.
+No.
+Yes.
+Ok, length is 2.
+Ok, length is 1.
+Yes.
+Yes.
+Ok, least unpleasant value is 336.
+Ok, least price is 1.
+No.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 256.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 8.
+No.
+Ok, least price is 2.
+Ok, least price is 2.
+Yes.
+Ok, least price is 2.
+Ok, length is 2.
+Ok, least unpleasant value is 49.
+Ok, length is 1.
+Ok, least unpleasant value is 20.
+Ok, least price is 1.
+Ok, least unpleasant value is 256.
+No.
+Ok, least unpleasant value is 16.
+Yes.
+Yes.
+Ok, least price is 2.
+Ok, least unpleasant value is 80.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, length is 1.
+Ok, least unpleasant value is 268.
+Yes.
+Ok, least price is 1.
+Ok, least unpleasant value is 16.
+No.
+No.
+Yes.
+Ok, least unpleasant value is 68.
+Yes.
+No.
+Ok, least unpleasant value is 4.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 2.
+Ok, least unpleasant value is 68.
+Ok, length is 2.
+Ok, length is 1.
+Yes.
+Ok, length is 1.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 3.
+Yes.
+Ok, least transfer count is 0.
+No.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+No.
+Ok, least unpleasant value is 256.
+Ok, length is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 32.
+Ok, least transfer count is 0.
+Yes.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 9.
+Ok, least price is 2.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 2.
+Ok, least price is 2.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least unpleasant value is 16.
+Ok, length is 2.
+Yes.
+Ok, least transfer count is 0.
+No.
+Ok, least unpleasant value is 288.
+Ok, length is 1.
+Ok, length is 2.
+Yes.
+Ok, least unpleasant value is 64.
+No.
