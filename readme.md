@@ -4,6 +4,8 @@
 
 生成jar包放到./jars下，源文件不要使用 import javafx
 
+测试脚本run_without_gen.sh的最后一行调用了not.sh这个脚本是发邮件用的，但是not.sh调用的python程序和发邮件脚本因为包含帐密敏感信息所以并未上传，所以not.sh不能使用，删掉run_without_gen的最后一行即可
+
 ## 启动
 
 ./run.sh 可以执行从生成到测试的全部流程
